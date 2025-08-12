@@ -1,0 +1,7 @@
+name = (input ("Enter your name:",))
+
+print ("Welcome\U0001F60A", name )
+age = int (input ("Enter age :" ))
+marks= float (input("Enter marks:"))
+if marks >= 25: print ("Congratulation! You passed \U00015389")
+else : print ("Opps! You failed \U0001F615")
